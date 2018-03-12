@@ -4,4 +4,4 @@
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
 
-include setup
+include_recipe 'workstation::setup'
